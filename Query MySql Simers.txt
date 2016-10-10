@@ -1,0 +1,11 @@
+create database testeSimers;
+
+CREATE TABLE userList(
+id INT(3) AUTO_INCREMENT PRIMARY KEY,
+estatus INT(2) NOT NULL,
+email VARCHAR(70),
+senha VARCHAR(20),
+usuario VARCHAR(30),
+sobrenome VARCHAR(50),
+nome VARCHAR(30));
+

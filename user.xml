@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userList>
+   <user id="1" nome="João"		sobrenome="Matias" 		usuario="joao.matias"		senha="asdf" email="joao.matias@inmemorian.com" status="1" />
+   <user id="2" nome="Maria"	sobrenome="da Graça"	usuario="maria.graca"		senha="fdsa" email="maria.graca@inmemorian.com" status="1" />
+   <user id="3" nome="Pedro"	sobrenome="de Lara"		usuario="pedro.lara"	senha="1234asdf" email="pedro.lara@inmemorian.com" status="0" />
+   <user id="4" nome="Fulano"	sobrenome="De Tal"		usuario="fulano.tal" senha="onaluf" email="fulano.tal@detal.com" status="1" />
+   <user id="5" nome="Marcelo"	sobrenome="Moura"		usuario="marcelo.moura" senha="plokiqaws" email="marcelo.moura@teste.com.br" status="1" />
+   <user id="6" nome="João"		sobrenome="Maria"		usuario="joao.maria" senha="qawsed" email="joao.maria@terra.com.br" status="0" />
+   <user id="7" nome="Luciano"	sobrenome="Bobsin"		usuario="luciano.bobsin" senha="frvdgr" email="luciano.bobsin@site.com" status="1" />
+   <user id="8" nome="Pug"		sobrenome="Nassal"		usuario="pug" senha="s125w4" email="pug.nassal@terra.com" status="0" />
+   <user id="9" nome="Vonnan"	sobrenome="Niato"		usuario="vonnan" senha="3212dd" email="vonnan@mail.com.br" status="1" />
+</userList>
